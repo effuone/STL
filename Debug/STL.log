@@ -1,2 +1,4 @@
-﻿  list.cpp
+﻿  copy.cpp
+C:\Users\777\source\repos\STL\STL\copy.cpp(11,57): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\777\source\repos\STL\STL\copy.cpp(608): warning C4715: returnPerson: значение возвращается не при всех путях выполнения
   STL.vcxproj -> C:\Users\777\source\repos\STL\Debug\STL.exe
